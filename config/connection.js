@@ -6,15 +6,15 @@ var source = {
 		port: 3306,
 		host: 'localhost',
 		user: 'root',
-		password: '',
+		password: 'Grandcru12!',
 		database: 'burger_db'
 	},
 	jawsDB: {
 		port: 3306,
-		host: 'gx97kbnhgjzh3efb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-		user: 'vt0eotyupp1i15ni',
-		password: 'qz6dygedxs71a8ou',
-		database: 'u4wogneutc6rikrq'
+		host: 'otwsl2e23jrxcqvx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+		user: 'sdgd0e9fk0pvks0t',
+		password: 'm792hops0bg6fco4',
+		database: 'dxg6v1kdtyvizsel'
 	}
 
 }
